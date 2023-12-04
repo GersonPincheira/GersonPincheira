@@ -1,4 +1,4 @@
 - 🔭 I’m currently working on mining industry developing technological solutions
 - 🌱 I’m currently learning nestJs and microservices
-- 💬 Ask me about ruby on rails and backend develop in general
-- ⚡ Fun fact: My English is very bad
+- 💬 Ask me about ruby on rails, python and backend develop in general
+- ⚡ Fun fact: I live in New Zealand for a while
